@@ -1,0 +1,14 @@
+.score {
+  float:right;
+}
+.status {
+  float:left;
+}
+.resultText{
+  position:relative; 
+  top: -10px;
+}
+.result {
+  font-size: 4em;
+  
+ }
